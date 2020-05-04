@@ -1,2 +1,2 @@
 # CodingChallanges
-My solutions for coding problems
+My solutions for some coding problems found on leetcode
